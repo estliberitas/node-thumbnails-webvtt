@@ -2,8 +2,16 @@
   "name":         "thumbnails-webvtt",
   "description":  "Module for creating video thumbnails with WebVTT file as descriptor",
   "version":      "0.0.1",
+  "license":      "MIT",
   "main":         "lib/index.js",
   "keywords":     ["video", "thumbnail", "spritesheet", "sprite", "webvtt", "ffmpeg", "imagemagick"],
+  "repository":   {
+    "type": "git",
+    "url":  "https://github.com/estliberitas/node-thumbnails-webvtt"
+  },
+  "bugs":         {
+    "url": "https://github.com/estliberitas/node-thumbnails-webvtt/issues"
+  },
   "dependencies": {
     "fluent-ffmpeg": "^1.7.2",
     "fs-extra":      "^0.10.0",
