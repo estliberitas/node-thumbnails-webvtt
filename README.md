@@ -65,11 +65,11 @@ Create thumbnails (and optionally pack them into spritesheet) and create WebVTT 
 
 ## Options
 
-* **output** defaults to `"SOURCE_DIR/SOURCE_NAME.vtt"`
+* **output** defaults to `"SOURCE_DIR/SOURCE_BASENAME.vtt"`
 
     * WebVTT filename
 
-* **assetsDirectory** defaults to `"SOURCE_DIR/SOURCE_NAME"`
+* **assetsDirectory** defaults to `"SOURCE_BASENAME"`
 
     * Name of folder which keeps thumbnails or spritesheet.
 
