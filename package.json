@@ -1,0 +1,15 @@
+{
+  "name":         "thumbot-webvtt",
+  "description":  "Module for creating video thumbnails described by WebVTT file",
+  "version":      "0.0.1",
+  "main":         "lib/index.js",
+  "keywords":     ["video", "thumbnail", "spritesheet", "sprite", "webvtt", "ffmpeg", "imagemagick"],
+  "dependencies": {
+    "fluent-ffmpeg": "^1.7.2",
+    "fs-extra":      "^0.10.0",
+    "lodash":        "^2.4.1",
+    "moment":        "^2.7.0",
+    "node-sprite":   "^0.1.2"
+  },
+  "author":       "Alexander Makarenko <estliberitas@gmail.com>"
+}
