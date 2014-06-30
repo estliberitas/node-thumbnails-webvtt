@@ -1,6 +1,6 @@
 {
-  "name":         "thumbot-webvtt",
-  "description":  "Module for creating video thumbnails described by WebVTT file",
+  "name":         "thumbnails-webvtt",
+  "description":  "Module for creating video thumbnails with WebVTT file as descriptor",
   "version":      "0.0.1",
   "main":         "lib/index.js",
   "keywords":     ["video", "thumbnail", "spritesheet", "sprite", "webvtt", "ffmpeg", "imagemagick"],
