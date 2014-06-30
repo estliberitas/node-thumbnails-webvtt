@@ -109,3 +109,4 @@ Create thumbnails (and optionally pack them into spritesheet) and create WebVTT 
 
 * Use cool spritesheet generator
 * Tests
+* Use some kind of WebVTT generator?
