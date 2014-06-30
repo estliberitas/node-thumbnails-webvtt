@@ -108,3 +108,4 @@ Create thumbnails (and optionally pack them into spritesheet) and create WebVTT 
 ## TODO
 
 * Use cool spritesheet generator
+* Tests
