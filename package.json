@@ -1,7 +1,7 @@
 {
   "name":         "thumbnails-webvtt",
   "description":  "Module for creating video thumbnails with WebVTT file as descriptor",
-  "version":      "0.0.1",
+  "version":      "0.0.2",
   "license":      "MIT",
   "main":         "lib/index.js",
   "keywords":     ["video", "thumbnail", "spritesheet", "sprite", "webvtt", "ffmpeg", "imagemagick"],
