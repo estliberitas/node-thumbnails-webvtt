@@ -89,9 +89,17 @@ Create thumbnails (and optionally pack them into spritesheet) and create WebVTT 
 
     * Array with timemarks in seconds. E.g. ['123.123', '345.345']
 
-* **numThumbnails** defaults to `null`
+* **numThumbnails** defaults to `0`
 
     * Number of thumbnails to generate. Used in opposite to `timemarks`. Each thumbnail moment is calculated as `source_duration * 0.9 / numThumbnails`.
+
+* **secondsPerThumbnail** defaults to `0`
+
+    * If specified thumbnails will be generated each `secondsPerThumbnail` seconds.
+
+* **framesPerThumbnail** defaults to `0`
+
+    * If specified thumbnails will be generated each `framesPerThumbnail` frames.
 
 * **spritesheet** defaults to `false`
 
