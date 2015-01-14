@@ -1,23 +1,31 @@
 {
-  "name":         "thumbnails-webvtt",
-  "description":  "Module for creating video thumbnails with WebVTT file as descriptor",
-  "version":      "0.0.3",
-  "license":      "MIT",
-  "main":         "lib/index.js",
-  "keywords":     ["video", "thumbnail", "spritesheet", "sprite", "webvtt", "ffmpeg", "imagemagick"],
-  "repository":   {
+  "name": "thumbnails-webvtt",
+  "description": "Module for creating video thumbnails with WebVTT file as descriptor",
+  "version": "0.0.4",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "video",
+    "thumbnail",
+    "spritesheet",
+    "sprite",
+    "webvtt",
+    "ffmpeg",
+    "imagemagick"
+  ],
+  "repository": {
     "type": "git",
-    "url":  "https://github.com/estliberitas/node-thumbnails-webvtt"
+    "url": "https://github.com/estliberitas/node-thumbnails-webvtt"
   },
-  "bugs":         {
+  "bugs": {
     "url": "https://github.com/estliberitas/node-thumbnails-webvtt/issues"
   },
   "dependencies": {
     "fluent-ffmpeg": "^1.7.2",
-    "fs-extra":      "^0.10.0",
-    "lodash":        "^2.4.1",
-    "moment":        "^2.7.0",
-    "node-sprite":   "^0.1.2"
+    "fs-extra": "^0.10.0",
+    "lodash": "^2.4.1",
+    "moment": "^2.7.0",
+    "node-sprite": "^0.1.2"
   },
-  "author":       "Alexander Makarenko <estliberitas@gmail.com>"
+  "author": "Alexander Makarenko <estliberitas@gmail.com>"
 }
